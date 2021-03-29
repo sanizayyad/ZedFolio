@@ -1,0 +1,1 @@
+export 'docard_model.dart';

@@ -1,0 +1,1 @@
+export 'contact_card_model.dart';
